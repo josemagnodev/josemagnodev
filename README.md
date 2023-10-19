@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @josemagnodev
-- 👀 I’m interested in Basckend using Java and Node and also Frontend using React.
-- 🌱 I’m currently Studyng Information Systems on Universidade Federal do Ceará.
-- 💞️ I’m looking to collaborate on Gitub with my knowledge
-- 📫 You can send an email on josemagno.dev@gmail.com
+👋 Hi, I'm @josemagnodev!
+
+👀 I'm passionate about Backend development using Java and Node.js, and I'm equally enthusiastic about crafting Frontend solutions with React.
+
+🌱 Currently, I'm dedicated to my studies in Information Systems at Universidade Federal do Ceará, where I'm honing my skills and expanding my knowledge in the realm of software development.
+
+💞️ I'm eager to collaborate on GitHub and share my knowledge with the community. Whether it's contributing to open-source projects, sharing insights, or collaborating on exciting software endeavors, I'm always up for the challenge.
+
+📫 Feel free to reach out to me via email at josemagno.dev@gmail.com. I'm looking forward to connecting with fellow developers and exploring new opportunities in the world of technology.
 
 
 <!---
