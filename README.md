@@ -1,6 +1,6 @@
 👋 Hi, I'm @josemagnodev!
 
-👀 I'm passionate about Backend development using PHP and Java, and I'm equally enthusiastic about crafting Frontend solutions with React.
+👀 I'm passionate about Backend development using PHP and Java, and I'm equally enthusiastic about crafting Frontend solutions with Angular.
 
 🌱 Currently, I'm dedicated to my studies in Information Systems at Universidade Federal do Ceará, where I'm honing my skills and expanding my knowledge in the realm of software development.
 
