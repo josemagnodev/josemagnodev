@@ -1,12 +1,16 @@
-👋 Hi, I'm @josemagnodev!
+Olá! 👋 Eu sou José Magno
 
-👀 I'm passionate about Backend development using PHP and Java, and I'm equally enthusiastic about crafting Frontend solutions with Angular.
+💻 Profissional de tecnologia com experiência em desenvolvimento de software, gestão de produtos e metodologias ágeis.
 
-🌱 Currently, I'm dedicated to my studies in Information Systems at Universidade Federal do Ceará, where I'm honing my skills and expanding my knowledge in the realm of software development.
+🚀 Minha experiência técnica está principalmente em Java, PHP, Spring Boot, Laravel e Angular, além de tecnologias como Docker, Git, MySQL, PostgreSQL e MongoDB.
 
-💞️ I'm eager to collaborate on GitHub and share my knowledge with the community. Whether it's contributing to open-source projects, sharing insights, or collaborating on exciting software endeavors, I'm always up for the challenge.
+🎯 Tenho interesse em Product Management, Technical Product Management e Product Ownership, atuando na interseção entre negócio, produto e tecnologia. Gosto de transformar necessidades em requisitos claros, organizar prioridades e acompanhar a evolução de soluções digitais.
 
-📫 Feel free to reach out to me via email at josemagno.dev@gmail.com. I'm looking forward to connecting with fellow developers and exploring new opportunities in the world of technology.
+🌱 Atualmente, curso Sistemas de Informação na Universidade Federal do Ceará (UFC), aprofundando meus conhecimentos em tecnologia, engenharia de software e desenvolvimento de produtos.
+
+🤝 No GitHub, compartilho projetos, estudos e experimentos relacionados a desenvolvimento de software, arquitetura, algoritmos e produtos digitais.
+
+📫 Entre em contato: josemagno.dev@gmail.com
 
 
 <!---
