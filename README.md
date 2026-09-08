@@ -1,16 +1,19 @@
-Olá! 👋 Eu sou José Magno
+# Olá! 👋 Eu sou José Magno
 
-💻 Profissional de tecnologia com experiência em desenvolvimento de software, gestão de produtos e metodologias ágeis.
+💻 **Desenvolvedor Backend Java**, com experiência no desenvolvimento e evolução de aplicações utilizando **Java e Spring Boot**.
 
-🚀 Minha experiência técnica está principalmente em Java, PHP, Spring Boot, Laravel e Angular, além de tecnologias como Docker, Git, MySQL, PostgreSQL e MongoDB.
+🚀 Minha experiência técnica inclui **Java, Spring Boot, APIs REST, PHP, Laravel, Angular, SQL, PostgreSQL, MySQL, MongoDB, Docker e Git**.
 
-🎯 Tenho interesse em Product Management, Technical Product Management e Product Ownership, atuando na interseção entre negócio, produto e tecnologia. Gosto de transformar necessidades em requisitos claros, organizar prioridades e acompanhar a evolução de soluções digitais.
+🧠 Tenho interesse em **engenharia de software, arquitetura de aplicações, estruturas de dados e otimização de algoritmos**, buscando desenvolver soluções eficientes, organizadas e sustentáveis.
 
-🌱 Atualmente, curso Sistemas de Informação na Universidade Federal do Ceará (UFC), aprofundando meus conhecimentos em tecnologia, engenharia de software e desenvolvimento de produtos.
+🔧 Também possuo experiência com **metodologias ágeis**, análise de requisitos e colaboração com diferentes perfis de equipe, contribuindo para transformar necessidades do projeto em soluções técnicas.
 
-🤝 No GitHub, compartilho projetos, estudos e experimentos relacionados a desenvolvimento de software, arquitetura, algoritmos e produtos digitais.
+🌱 Atualmente, curso **Sistemas de Informação na Universidade Federal do Ceará (UFC)**, aprofundando meus conhecimentos em desenvolvimento de software, engenharia de software e tecnologia.
 
-📫 Entre em contato: josemagno.dev@gmail.com
+🤝 No GitHub, compartilho **projetos, estudos e experimentos** relacionados principalmente a desenvolvimento backend, Java, APIs, bancos de dados, arquitetura e algoritmos.
+
+📫 **Entre em contato:** [josemagno.dev@gmail.com](mailto:josemagno.dev@gmail.com)
+
 
 
 <!---
